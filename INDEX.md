@@ -34,6 +34,18 @@ _This is the central hub of the OpenClaw neural graph for Aryan's agency._
     ├─ data-extraction-comprehensive
     ├─ northfield-operator-kb
     └─ content-os-complete
+           ↓
+    Content System Cluster:
+    ├─ agency-content-system
+    ├─ content-hooks
+    ├─ content-scripting
+    └─ content-ideas
+           ↓
+    Operations Cluster:
+    ├─ agency-outreach
+    ├─ agency-offers
+    ├─ pricing-table
+    └─ sub-nodes (auto-populating)
 ```
 
 ---
